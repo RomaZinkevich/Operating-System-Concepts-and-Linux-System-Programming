@@ -1,0 +1,3 @@
+To get a human-readable error message from errno, you can use stderror(errno).
+perror() simplifies error handling by automatically printing the correct message.
+

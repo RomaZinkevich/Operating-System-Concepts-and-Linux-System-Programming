@@ -1,0 +1,8 @@
+The following line does:
+1. Prints the contents of all .txt files.
+2. Removes all non-alphabetic characters and leaves pure words.
+3. Sorts the words.
+4. Counts occurences of each unique word.
+5. Sorts the list of words numerically in ascending order.
+6. Displays the last 10 lines (the 10 most frequent words).
+7. Formats the output into five columns without a header.
